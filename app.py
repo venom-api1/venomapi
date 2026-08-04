@@ -1,4 +1,4 @@
-from checker_apis2 import app
+from checker_api2 import app
 
 if __name__ == "__main__":
     import uvicorn
